@@ -9,5 +9,14 @@
         1. ul nav__list
             1. li nav__items -> About services etc
     
-    
+3. Intro bar
+    1. Section, Heading and subtitle, image
+
+4. What i do section
+    1. section, main-heading, 
+        2. Div for services
+            3. Div for each service
+        4. Button 
+
+        
     
