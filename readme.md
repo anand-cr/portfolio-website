@@ -18,5 +18,27 @@
             3. Div for each service
         4. Button 
 
+
+5. Who am i section
+    1. section 
+        2. heading  subtitile
+        3. div for the actual para
+        4. image
+
+6. My works
+    1. Section
+        1. heading subtitle
+        2. div for all the works
+            3. Portfolio Items
+
+7. Footer
+    1. link to mail
+    2. Ul for links
+        1. Li links
+
+    
+
+
+
         
     
