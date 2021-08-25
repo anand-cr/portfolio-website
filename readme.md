@@ -40,6 +40,22 @@
 <!-- CSS -->
 
 
+1. set up custom properties
+    1. fix the box sizing
+    2. add for ::root
+        1. fi primary secondary ff, font weight, clr, fs
+    3. add @media property for responsive  fs
+
+2. setting up general styles
+    1. body -> 
+    2. img
+    3. strong
+
+3. Typography
+    1. h1,h2,h3
+    2. section__title, section__title--intro
+
+
 
     
 
