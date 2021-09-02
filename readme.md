@@ -56,7 +56,11 @@
     2. section__title, section__title--intro
 
 
+4. styling the intro section
+    1. Style the image the image subtitle and positioning using media
+    2. Box shadow using custom properties
 
+5. What i do section styling
     
 
 
